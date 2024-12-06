@@ -43,8 +43,8 @@ Sou um desenvolvedor fullstack com uma paixão crescente pelo desenvolvimento fr
 | MySQL            | ★★★★☆      |
 | SQL Server       | ★★★★☆      |
 
-![Minhas habilidades](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Minhas habilidades](https://github-readme-stats.vercel.app/api/top-langs/?username=gus9g&layout=compact&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gus9g&show_icons=true&theme=dark)
 
 ## Contatos
 - [LinkedIn](https://www.linkedin.com/in/gustavo-guedes-34329b244/)
